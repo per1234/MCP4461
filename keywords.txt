@@ -16,8 +16,8 @@ setWiperKEYWORD2
 getWiperKEYWORD2
 read	KEYWORD2
 write	KEYWORD2
-openCircuit KEYWORD2
-enableOutput KEYWORD2
+openCircuit	KEYWORD2
+enableOutput	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
